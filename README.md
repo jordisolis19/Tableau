@@ -1,4 +1,5 @@
 # Tableau Portfolio by Jordi Solis
-Please use the links bellow to explore different Tableu Dashboards I've created
+
+Welcome to my Tableau Portfolio. You can use the links bellow to browse different dashboard projects displaying my experience with the program. Feel free to reach out with any questions. I would be happy to discuss my qualifications and skills 
 
 1.- COVID world Data dashboard: 
