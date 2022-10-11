@@ -11,5 +11,5 @@ You can use the links below to review Tableau-Dashboard projects I've created. T
 3.- Sales Statistics: https://public.tableau.com/app/profile/jordi.solis/viz/SalesStadistics/Dashboard1?publish=yes
 
  
- #Thank you for visiting. You can also review my SQL portfolio here: https://github.com/jordisolis19/SQL/tree/main
+ #Thank you for visiting. You can also review my # SQL portfolio here: https://github.com/jordisolis19/SQL/tree/main
 
